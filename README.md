@@ -26,7 +26,7 @@ An agentic RAG e-commerce project combining hybrid retrieval, tool calling, and 
 ## Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WHUTcjh-2024/WHUTcjh-2024/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WHUTcjh-2024/WHUTcjh-2024/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/WHUTcjh-2024/WHUTcjh-2024/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WHUTcjh-2024/WHUTcjh-2024/output/github-snake-dark.svg?v=blue">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WHUTcjh-2024/WHUTcjh-2024/output/github-snake.svg?v=blue">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/WHUTcjh-2024/WHUTcjh-2024/output/github-snake.svg?v=blue">
 </picture>
