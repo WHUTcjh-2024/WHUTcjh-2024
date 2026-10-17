@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">CJH · AI Infra and AI Agent</title>
+  <desc id="desc">A dark, minimal profile header with an abstract connected path.</desc>
+  <rect width="1200" height="260" rx="14" fill="#111d1b"/>
+  <rect x="1" y="1" width="1198" height="258" rx="13" fill="none" stroke="#29443e" stroke-width="2"/>
+  <rect x="0" y="0" width="8" height="260" rx="4" fill="#50b9aa"/>
+  <text x="66" y="77" fill="#9bb9b1" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="3">WHUTcjh-2024</text>
+  <text x="62" y="162" fill="#eef7f4" font-family="Segoe UI, Arial, sans-serif" font-size="76" font-weight="700">CJH<tspan fill="#50b9aa">.</tspan></text>
+  <text x="66" y="211" fill="#bad9d0" font-family="Segoe UI, Arial, sans-serif" font-size="29">AI Infra  ·  AI Agent</text>
+  <path d="M793 183 L890 112 L992 153 L1097 76" fill="none" stroke="#315b52" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="793" cy="183" r="9" fill="#203c35" stroke="#5a9e90" stroke-width="3"/>
+  <circle cx="890" cy="112" r="9" fill="#203c35" stroke="#5a9e90" stroke-width="3"/>
+  <circle cx="992" cy="153" r="9" fill="#203c35" stroke="#5a9e90" stroke-width="3"/>
+  <circle cx="1097" cy="76" r="9" fill="#50b9aa"/>
+</svg>
