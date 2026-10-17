@@ -11,10 +11,10 @@
 
 ## Projects & Notes
 
-- **[WeKnora](https://github.com/Tencent/WeKnora)** — 参与知识库与 Agent 平台开发，贡献数据源接入、文档处理及沙箱相关改进。 [PRs](https://github.com/Tencent/WeKnora/pulls?q=author%3AWHUTcjh-2024)
+- **[WeKnora](https://github.com/Tencent/WeKnora)** — 参与开源知识库与 Agent 平台开发，涉及数据源、文档与沙箱。 [PRs](https://github.com/Tencent/WeKnora/pulls?q=author%3AWHUTcjh-2024)
 - **[RAG-agent](https://github.com/WHUTcjh-2024/RAG-agent)** — 面向服装购买决策的 AI Agent，实践混合检索、工具调用与偏好记忆。
-- **[attention_chen](https://github.com/WHUTcjh-2024/attention_chen)** — Attention 与 LLM 推理学习笔记，覆盖 Prefill、Decode 和 KV Cache。 [在线阅读](https://whutcjh-2024.github.io/attention_chen/)
+- **[attention_chen](https://github.com/WHUTcjh-2024/attention_chen)** — Attention 与推理系统笔记：Prefill、Decode、KV Cache。 [阅读](https://whutcjh-2024.github.io/attention_chen/)
 
 ## GitHub Activity
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=WHUTcjh-2024&show_icons=true&hide_border=true&theme=transparent&hide_rank=true&hide=issues,contribs&custom_title=GitHub%20Activity&card_width=420&disable_animations=true)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=WHUTcjh-2024&show_icons=true&hide_border=true&theme=transparent&hide_rank=true&hide_title=true&hide=issues,contribs&card_width=420&disable_animations=true)
