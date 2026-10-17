@@ -7,18 +7,14 @@
 
 关注 **AI Infra** 与 **AI Agent**：从推理系统的效率，到 Agent 在真实任务中的可靠性。
 
-`推理框架` · `算子优化` · `RAG` · `工具调用`
+`Inference` · `CUDA` · `Triton` · `vLLM` · `RAG`
 
-## 项目与笔记
+## Projects & Notes
 
-### [WeKnora](https://github.com/Tencent/WeKnora)
+- **[WeKnora](https://github.com/Tencent/WeKnora)** — 参与知识库与 Agent 平台开发，贡献数据源接入、文档处理及沙箱相关改进。 [PRs](https://github.com/Tencent/WeKnora/pulls?q=author%3AWHUTcjh-2024)
+- **[RAG-agent](https://github.com/WHUTcjh-2024/RAG-agent)** — 面向服装购买决策的 AI Agent，实践混合检索、工具调用与偏好记忆。
+- **[attention_chen](https://github.com/WHUTcjh-2024/attention_chen)** — Attention 与 LLM 推理学习笔记，覆盖 Prefill、Decode 和 KV Cache。 [在线阅读](https://whutcjh-2024.github.io/attention_chen/)
 
-开源贡献 · 参与知识库与 Agent 平台开发，涉及数据源接入、文档处理和沙箱能力。 [我的 PR →](https://github.com/Tencent/WeKnora/pulls?q=author%3AWHUTcjh-2024)
+## GitHub Activity
 
-### [RAG-agent](https://github.com/WHUTcjh-2024/RAG-agent)
-
-个人项目 · 面向服装购买决策的 AI Agent，结合混合检索、工具调用与偏好记忆，探索从需求理解到决策建议的流程。
-
-### [attention_chen](https://github.com/WHUTcjh-2024/attention_chen)
-
-学习笔记 · 整理 Attention 结构、Prefill、Decode 与 KV Cache，记录从原理到推理实践的学习过程。 [在线阅读 →](https://whutcjh-2024.github.io/attention_chen/)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=WHUTcjh-2024&show_icons=true&hide_border=true&theme=transparent&hide_rank=true&hide=issues,contribs&custom_title=GitHub%20Activity&card_width=420&disable_animations=true)
