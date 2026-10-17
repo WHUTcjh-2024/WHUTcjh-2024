@@ -17,4 +17,7 @@
 
 ## GitHub Activity
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=WHUTcjh-2024&show_icons=true&hide_border=true&theme=transparent&hide_rank=true&hide_title=true&hide=issues,contribs&card_width=420&disable_animations=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WHUTcjh-2024&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_rank=true&amp;hide_title=true&amp;hide=issues,contribs&amp;card_width=420&amp;disable_animations=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WHUTcjh-2024&amp;show_icons=true&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000&amp;hide_rank=true&amp;hide_title=true&amp;hide=issues,contribs&amp;card_width=420&amp;disable_animations=true" alt="GitHub Activity" width="420" />
+</picture>
