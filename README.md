@@ -1,6 +1,9 @@
-# CJH.
-
-**AI Infra · AI Agent**
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/banner-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="./assets/banner-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <img src="./assets/banner-light.svg" alt="CJH. — AI Infra · AI Agent" width="100%" />
+</picture>
 
 关注推理系统的效率，算子开发与优化，以及 AI Agent 在真实任务中的可靠性。
 
