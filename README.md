@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
   <img src="./assets/header-light.svg" alt="CJH — AI Infra · AI Agent" width="100%" />
 </picture>
