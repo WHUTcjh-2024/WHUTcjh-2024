@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img" aria-labelledby="title">
+  <title id="title">CJH. — AI Infra · AI Agent</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1b292b"/>
+      <stop offset="0.7" stop-color="#2a3938"/>
+      <stop offset="1" stop-color="#3b4740"/>
+    </linearGradient>
+    <radialGradient id="warmth" cx="85%" cy="15%" r="66%">
+      <stop offset="0" stop-color="#a78369" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#a78369" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="round"><rect width="700" height="280" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="700" height="280" fill="url(#background)"/>
+    <rect width="700" height="280" fill="url(#warmth)"/>
+    <path d="M430 280c85-31 135-35 191-74 31-22 55-28 79-27v101Z" fill="#8ca99a" fill-opacity="0.15"/>
+    <path d="M485 280c91-21 157-18 215-48v48Z" fill="#a1b4a2" fill-opacity="0.1"/>
+    <text x="44" y="161" fill="#f1f2e9" font-family="Segoe UI, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="-3">CJH<tspan fill="#d4a586">.</tspan></text>
+    <text x="49" y="220" fill="#cbd8d0" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="500">AI Infra · AI Agent</text>
+  </g>
+</svg>
