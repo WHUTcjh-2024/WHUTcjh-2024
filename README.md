@@ -8,9 +8,9 @@
 
 ## Projects & Notes
 
-- **[WeKnora](https://github.com/Tencent/WeKnora)** — 参与开源知识库与 Agent 平台开发，涉及数据源、文档与沙箱。 [PRs](https://github.com/Tencent/WeKnora/pulls?q=author%3AWHUTcjh-2024)
+- **[WeKnora](https://github.com/Tencent/WeKnora)** — 参与开源知识库与 Agent 平台开发，涉及数据源、文档与沙箱。
 - **[RAG-agent](https://github.com/WHUTcjh-2024/RAG-agent)** — 面向服装购买决策的 AI Agent，实践混合检索、工具调用与偏好记忆。
-- **[attention_chen](https://github.com/WHUTcjh-2024/attention_chen)** — Attention 与推理系统笔记：Prefill、Decode、KV Cache。 [阅读](https://whutcjh-2024.github.io/attention_chen/)
+- **[attention_chen](https://github.com/WHUTcjh-2024/attention_chen)** — Attention 与推理系统笔记：Prefill、Decode、KV Cache。 https://whutcjh-2024.github.io/attention_chen/
 
 ## GitHub Activity
 
