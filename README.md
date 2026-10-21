@@ -10,7 +10,7 @@
 
 `Python` · `CUDA` · `Go` · `Linux` · `Triton`
 
-## Projects & Notes
+## 工程记录
 
 - 腾讯[WeKnora](https://github.com/Tencent/WeKnora) — 参与开源知识库与 Agent 平台开发，涉及数据源、文档与sandbox。
 - 武汉理工大学外国语学院智能语料检索平台开发者（仓库已设为Private），涉及后端开发、语料库检索、自然语言处理。
