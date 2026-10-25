@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/banner-mono-mobile-dark.svg" />
   <source media="(max-width: 600px)" srcset="./assets/banner-mono-mobile-light.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-mono-dark.svg" />
-  <img src="./assets/banner-mono-light.svg" alt="CJH. — AI Infra · AI Agent" width="100%" />
+  <img src="./assets/banner-mono-light.svg" alt="CJH. — Building Faster LLM Systems; AI Infrastructure" width="100%" />
 </picture>
 
 
