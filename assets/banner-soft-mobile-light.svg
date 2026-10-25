@@ -1,23 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280" role="img" aria-labelledby="title">
-  <title id="title">CJH. — AI Infra · AI Agent</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="540" viewBox="0 0 700 540" role="img" aria-labelledby="title desc">
+  <title id="title">CJH. — Building Faster LLM Systems</title>
+  <desc id="desc">AI Infrastructure, kernels, runtime and serving; request to GPU inference flow.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#e9eeea"/>
-      <stop offset="0.7" stop-color="#f1eee6"/>
-      <stop offset="1" stop-color="#e1e9e2"/>
-    </linearGradient>
-    <radialGradient id="warmth" cx="85%" cy="15%" r="66%">
-      <stop offset="0" stop-color="#ead8be" stop-opacity="0.75"/>
-      <stop offset="1" stop-color="#ead8be" stop-opacity="0"/>
-    </radialGradient>
-    <clipPath id="round"><rect width="700" height="280" rx="20"/></clipPath>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#e9e9e9" stroke-width="1"/>
+    </pattern>
+    <marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto">
+      <path d="M0 0L7 3.5L0 7Z" fill="#454a50"/>
+    </marker>
+    <clipPath id="clip"><rect x="1" y="1" width="698" height="538" rx="22"/></clipPath>
   </defs>
-  <g clip-path="url(#round)">
-    <rect width="700" height="280" fill="url(#background)"/>
-    <rect width="700" height="280" fill="url(#warmth)"/>
-    <path d="M430 280c85-31 135-35 191-74 31-22 55-28 79-27v101Z" fill="#a4b8a7" fill-opacity="0.22"/>
-    <path d="M485 280c91-21 157-18 215-48v48Z" fill="#799b8e" fill-opacity="0.17"/>
-    <text x="44" y="161" fill="#263a37" font-family="Segoe UI, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="-3">CJH<tspan fill="#a77b63">.</tspan></text>
-    <text x="49" y="220" fill="#526a62" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="500">AI Infra · AI Agent</text>
+  <g clip-path="url(#clip)">
+    <rect width="700" height="540" fill="#fafafa"/>
+    <rect width="700" height="540" fill="url(#grid)"/>
+    
+    <rect x="0" width="700" height="300" fill="#fafafa"/>
+    <text x="48" y="139" fill="#111214" font-size="104" font-weight="750" letter-spacing="-6">CJH<tspan fill="#858990">.</tspan></text>
+    <text x="52" y="196" fill="#111214" font-size="35" font-weight="650">Building Faster LLM Systems.</text>
+    <text x="53" y="243" fill="#565a60" font-size="24">AI Infrastructure</text>
+    <text x="53" y="278" fill="#565a60" font-size="20">Kernels · Runtime · Serving</text>
+    <path d="M52 304H648" stroke="#d4d4d4"/>
+    <g stroke="#454a50" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M212 411H257" marker-end="url(#arrow)"/>
+      <path d="M434 411H479" marker-end="url(#arrow)"/>
+    </g>
+    <rect x="48" y="355" width="160" height="112" rx="13" fill="#ffffff" stroke="#d4d4d4" stroke-width="1.5"/><g transform="translate(128 393)" color="#111214" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="-16" y="-15" width="32" height="30" rx="3"/><path d="M-9 -7H9M-9 0H6M-9 7H3"/></g><text x="128" y="446" text-anchor="middle" fill="#111214" font-size="21" font-weight="600">Request</text><rect x="270" y="355" width="160" height="112" rx="13" fill="#ffffff" stroke="#d4d4d4" stroke-width="1.5"/><g transform="translate(350 393)" color="#111214" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 -18L-13 2H-2L-6 18L13 -5H2Z"/></g><text x="350" y="446" text-anchor="middle" fill="#111214" font-size="21" font-weight="600">Prefill</text><rect x="492" y="355" width="160" height="112" rx="13" fill="#ffffff" stroke="#d4d4d4" stroke-width="1.5"/><g transform="translate(572 393)" color="#111214" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="-15" y="-15" width="30" height="30" rx="3"/><rect x="-6" y="-6" width="12" height="12" rx="1"/><path d="M-21 -10H-15M-21 0H-15M-21 10H-15M15 -10H21M15 0H21M15 10H21M-10 -21V-15M0 -21V-15M10 -21V-15M-10 15V21M0 15V21M10 15V21"/></g><text x="572" y="446" text-anchor="middle" fill="#111214" font-size="21" font-weight="600">GPU</text>
+    <text x="52" y="505" fill="#858990" font-size="17" letter-spacing="1">WUHAN  ·  OPEN SOURCE</text>
+    
   </g>
+  <rect x="1" y="1" width="698" height="538" rx="22" fill="none" stroke="#d4d4d4" stroke-width="2"/>
 </svg>
