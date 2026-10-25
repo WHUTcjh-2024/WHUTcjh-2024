@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/banner-mono-mobile-dark.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/banner-mono-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-mono-dark.svg" />
-  <img src="./assets/banner-mono-light.svg" alt="CJH. — Building Faster LLM Systems; AI Infrastructure" width="100%" />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/banner-bw-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="./assets/banner-bw-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-bw-dark.svg" />
+  <img src="./assets/banner-bw-light.svg" alt="CJH. — Building Faster LLM Systems; AI Infrastructure" width="100%" />
 </picture>
 
 
