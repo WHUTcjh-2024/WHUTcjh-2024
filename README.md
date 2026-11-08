@@ -1,12 +1,5 @@
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/banner-bw-mobile-dark.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/banner-bw-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-bw-dark.svg" />
-  <img src="./assets/banner-bw-light.svg" alt="CJH. — Building Faster LLM Systems; AI Infrastructure" width="100%" />
-</picture>
 
-
-关注推理引擎优化、全链路性能调优，高性能算子开发与优化，以及 AI Agent 在真实任务中的可靠性。
+## 关注推理引擎优化、全链路性能调优，高性能算子开发与优化，以及 AI Agent 在真实任务中的可靠性。
 
 `Python` · `CUDA` · `Go` · `Linux` · `Triton`
 
